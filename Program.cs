@@ -13,7 +13,7 @@ class Program
         double b = ReadDoubleFromConsole();
 
         double sum = a + b;
-        Console.WriteLine($"\nResult: {a} + {b} = {sum}");
+        Console.WriteLine($"\nResult: {a} / {b} = {sum}");
     }
 
     static double ReadDoubleFromConsole()
