@@ -1,0 +1,14 @@
+/Users/manu/Documents/01_Code/09_VS_CODE/SimpleAdder/bin/Debug/net7.0/SimpleAdder
+/Users/manu/Documents/01_Code/09_VS_CODE/SimpleAdder/bin/Debug/net7.0/SimpleAdder.deps.json
+/Users/manu/Documents/01_Code/09_VS_CODE/SimpleAdder/bin/Debug/net7.0/SimpleAdder.runtimeconfig.json
+/Users/manu/Documents/01_Code/09_VS_CODE/SimpleAdder/bin/Debug/net7.0/SimpleAdder.dll
+/Users/manu/Documents/01_Code/09_VS_CODE/SimpleAdder/bin/Debug/net7.0/SimpleAdder.pdb
+/Users/manu/Documents/01_Code/09_VS_CODE/SimpleAdder/obj/Debug/net7.0/SimpleAdder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manu/Documents/01_Code/09_VS_CODE/SimpleAdder/obj/Debug/net7.0/SimpleAdder.AssemblyInfoInputs.cache
+/Users/manu/Documents/01_Code/09_VS_CODE/SimpleAdder/obj/Debug/net7.0/SimpleAdder.AssemblyInfo.cs
+/Users/manu/Documents/01_Code/09_VS_CODE/SimpleAdder/obj/Debug/net7.0/SimpleAdder.csproj.CoreCompileInputs.cache
+/Users/manu/Documents/01_Code/09_VS_CODE/SimpleAdder/obj/Debug/net7.0/SimpleAdder.dll
+/Users/manu/Documents/01_Code/09_VS_CODE/SimpleAdder/obj/Debug/net7.0/refint/SimpleAdder.dll
+/Users/manu/Documents/01_Code/09_VS_CODE/SimpleAdder/obj/Debug/net7.0/SimpleAdder.pdb
+/Users/manu/Documents/01_Code/09_VS_CODE/SimpleAdder/obj/Debug/net7.0/SimpleAdder.genruntimeconfig.cache
+/Users/manu/Documents/01_Code/09_VS_CODE/SimpleAdder/obj/Debug/net7.0/ref/SimpleAdder.dll
